@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ajinkya-Python
+- 👀 I’m interested in ... Python,C,C++,Java
+- 🌱 I’m currently learning ...Python
